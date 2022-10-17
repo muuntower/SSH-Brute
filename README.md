@@ -15,9 +15,17 @@ python3 -m pip install --upgrade pwntools
 
 # Dependencies
 
-    Python3
-    PIP
-    pwn tools
+   Python3  
+   PIP  
+   pwn tools  
+   [Daniel Miessler's SecLists](https://github.com/danielmiessler/SecLists)
+    
+# Usage/Modifications
+
+    Line 4 - Edit 'host'  
+    Line 5 - Edit 'username'  
+    Line 6 - Edit 'attempts'
+    Line 8 - Edit '<NAME.txt>' password list
     
 # Credits
 
