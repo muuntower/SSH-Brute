@@ -8,7 +8,6 @@ First, you must have pwntools library installed in order for the script to work 
 
 # Debian/Ubuntu/Kali
 
-apt-get install libkrb5-dev  
 apt-get update  
 apt-get install python3 python3-pip python3-dev git libssl-dev libffi-dev build-essential  
 python3 -m pip install --upgrade pip  
